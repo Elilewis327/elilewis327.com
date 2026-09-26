@@ -4,7 +4,7 @@ function App() {
       <header className="panel title-panel">
         <h1>Elilewis327.com</h1>
         <h3>Software Engineer |</h3>
-        <h3>Writing Scalable Cybersecurity Soltuions For The AI Era</h3>
+        <h3>Writing Scalable Cybersecurity Solutions For The AI Era</h3>
       </header>
 
       <section className="panel body-panel">
@@ -41,7 +41,7 @@ function App() {
             <li>Kubernetes Secret Management</li>
           </ul>
         </p>
-        <h3>[Personal] [In Progres] ASimpleHarness</h3>
+        <h3>[Personal] [In Progress] ASimpleHarness</h3>
         <p>
           A tuneable Go TUI for interacting with LLMs and more. <br />
           Tech Stack:
