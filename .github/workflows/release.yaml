@@ -27,7 +27,8 @@ jobs:
         run:
           |
           mkdir static
-          cp * static/
+          cp index.html static/index.html
+          cp CNAME static/CNAME
           echo "Done"
 
       - name: Configure Pages
